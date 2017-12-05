@@ -1,0 +1,15 @@
+com\timepass\app\bikepoolerz\AppProperties$Menu.class
+com\timepass\app\bikepoolerz\HibernateProperties.class
+com\timepass\app\bikepoolerz\entities\Combo.class
+com\timepass\app\bikepoolerz\utilities\PropertiesConfiguration.class
+com\timepass\app\bikepoolerz\SpringBootController.class
+com\timepass\app\bikepoolerz\HibernateProperties$Connection.class
+com\timepass\app\bikepoolerz\entities\FoodItems.class
+com\timepass\app\bikepoolerz\utilities\PropertiesConfiguration$Menu.class
+com\timepass\app\bikepoolerz\entities\Category.class
+com\timepass\app\bikepoolerz\AppProperties.class
+com\timepass\app\bikepoolerz\dao\CategoryDAO.class
+com\timepass\app\bikepoolerz\utilities\HibernateConnection.class
+com\timepass\app\bikepoolerz\utilities\PropertiesConfiguration$Compiler.class
+com\timepass\app\bikepoolerz\AppProperties$Compiler.class
+com\timepass\app\bikepoolerz\HibernateProperties$C3p0.class
