@@ -1,0 +1,11 @@
+#hibernate properties
+#properties:1100
+#	hibernate.connection.url=jdbc:mysql://localhost/canteen
+#	hibernate.connection.username=root@localhost
+#	hibernate.connection.password=admin
+#	hibernate.connection.driver_class =com.mysql.jdbc.Driver
+#	hiberante.dialect=org.hibernate.dialect.MySQLDialect
+#logging:
+#  level:
+#   org.springframework.web: ERROR
+#    com.mkyong: DEBUG
